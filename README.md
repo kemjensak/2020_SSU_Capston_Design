@@ -12,8 +12,8 @@
 
 ## 구성원 
 팀 문돌이
-- [윤창섭](https://github.com/ryunchang)
-- [김진석](https://github.com/kemjensak)
+- [윤창섭](https://github.com/ryunchang) (전자정보공학부)
+- [김진석](https://github.com/kemjensak) (기계공학부)
 
 
 ## 발표 영상
