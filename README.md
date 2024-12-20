@@ -17,7 +17,7 @@
 
 
 ## 발표 영상
-https://youtu.be/VtSahW95ooE
+https://youtu.be/gnOl-2aolRw
 
 
 ## 기술
